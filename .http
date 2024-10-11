@@ -22,7 +22,7 @@ POST {{host}}/books/
 Content-Type: application/json
 
 {
-  "titl": "Wrong New Book"
+  "title": "Wrong New Book"
 }
 
 ### Update book
